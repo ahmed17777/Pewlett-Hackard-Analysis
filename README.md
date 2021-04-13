@@ -30,3 +30,8 @@ The following is a breakdown of the results from the analysis:
 ![mentor](https://user-images.githubusercontent.com/45697471/114475479-5e214280-9bc6-11eb-8e24-9a6bd6c9799d.png)
 
 ## Summary 
+
+Based on my analysis, 90,398 roles will need to be filled when the "silver tsunami" begins to make an impact at Pewlett-Hackard. Seeing the results of the mentorship program eligibilty shows us that there is a huge discrepency between the number of employees ready to retire and the number of employees that are eligble for mentorship, which will cause the company to face a great deficit once the eligible employees retire. Some other tables that could provide us further inside into the upcoming "silver tsunami" would be: 
+
+- How long employees have been in their current roles to identify employees that may be added to the mentorship program 
+- What percentage of employees are new employees that may not be eligible for senior roles 
